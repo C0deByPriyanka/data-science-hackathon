@@ -23,7 +23,7 @@ This project is part of the KnowledgeHut AI Hackathon for Ecommerce Product Cate
 
 ## Results
 
-The best model achieved a weighted F1-score of X on the validation set.
+The best model achieved a weighted F1-score of 0.9884 on the validation set.
 
 ## Conclusion
 
