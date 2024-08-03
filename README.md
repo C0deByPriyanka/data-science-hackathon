@@ -19,6 +19,7 @@ This project is part of the KnowledgeHut AI Hackathon for Ecommerce Product Cate
 - `submission.csv`: Final predictions for the test set.
 - `presentation.pptx`: PowerPoint presentation with project summary.
 - `video_walkthrough.mp4`: Video walkthrough of the project.
+- `data`: Contains dataset for ML model.
 
 ## Results
 
